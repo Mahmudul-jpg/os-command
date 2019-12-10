@@ -1,0 +1,28 @@
+total 116
+-rw-rw-r-- 1 student student 15732 Dec 10 12:16 17-34580-2 OS_CO3_Lab Exam_Question_Fall19-20.odt
+-rw-rw-r-- 1 student student     0 Dec 10 13:04 cpu.txt
+-rwxrwxrwx 1 student student   108 Dec 10 12:50 hasan.sh
+-rwxrwxrwx 1 student student    70 Dec 10 13:03 lab2a.sh
+-rwxrwxrwx 1 student student    42 Dec 10 12:50 length_str.txt
+drwxrwxr-x 2 student student  4096 Dec 10 11:40 Mahmudul
+-rwxrwxrwx 1 student student   449 Dec 10 12:22 mahmudul.sh
+-rwxrwxrwx 1 student student   502 Dec 10 12:21 maksudul.sh
+-rw-rw-r-- 1 student student   469 Dec  9 16:28 New File
+-rwxrwxrwx 1 student student   109 Dec 10 12:01 novo.sh
+-rw-rw-r-- 1 student student     0 Dec 10 13:04 numnber_of_files.txt
+-rw-rw-r-- 1 student student 62878 Dec  9 16:31 Screenshot_2019-12-09_16-31-34.png
+-rwxrwxrwx 1 student student   341 Dec 10 11:43 shuvo.sh
+total 124
+-rw-rw-r-- 1 student student 15732 Dec 10 12:16 17-34580-2 OS_CO3_Lab Exam_Question_Fall19-20.odt
+-rw-rw-r-- 1 student student  1702 Dec 10 13:11 cpu.txt
+-rwxrwxrwx 1 student student   108 Dec 10 12:50 hasan.sh
+-rwxrwxrwx 1 student student    70 Dec 10 13:10 lab2a.sh
+-rwxrwxrwx 1 student student    42 Dec 10 12:50 length_str.txt
+drwxrwxr-x 2 student student  4096 Dec 10 11:40 Mahmudul
+-rwxrwxrwx 1 student student   449 Dec 10 12:22 mahmudul.sh
+-rwxrwxrwx 1 student student   502 Dec 10 12:21 maksudul.sh
+-rw-rw-r-- 1 student student   469 Dec  9 16:28 New File
+-rwxrwxrwx 1 student student   109 Dec 10 12:01 novo.sh
+-rw-rw-r-- 1 student student   840 Dec 10 13:04 numnber_of_files.txt
+-rw-rw-r-- 1 student student 62878 Dec  9 16:31 Screenshot_2019-12-09_16-31-34.png
+-rwxrwxrwx 1 student student   341 Dec 10 11:43 shuvo.sh
